@@ -5,6 +5,7 @@ n katmanlı otel otomasyon sistemi
 ![use-case diagram](https://github.com/user-attachments/assets/d8e5731a-0e05-4255-bc10-2a5ff3e79369)
 
 #class diyagramı
+
 ![class diagram](https://github.com/user-attachments/assets/71776406-1710-400e-a25f-3c9eb357be39)
 
 #ER diyagramı
