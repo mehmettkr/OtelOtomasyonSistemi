@@ -12,20 +12,26 @@ n katmanlı otel otomasyon sistemi
 # ER diyagramı
 ![ER DİAGRAM](https://github.com/user-attachments/assets/582ad988-4cf2-4830-a7f4-1098fb2ae916)
 
-# FORM GİRİŞ EKRANI
-![GirisForm](https://github.com/user-attachments/assets/4ff52187-3d99-453a-adc6-40876ee005ab)
+# GİRİŞ FORMU
+![girisform1](https://github.com/user-attachments/assets/1f1c9abf-7699-427c-a967-a5976a3cfa74)
+Burda sisteme giriş yapıyoruz
 
-# ŞİFRE UNUTULMASI DURUMUNDA ŞİFREMİ UNUTTUM EKRANI
-![menüform](https://github.com/user-attachments/assets/802d5fd9-65c4-4c64-94d2-41d574e6f3f7)
+# ŞİFREMİ UNUTTUM FORMU
+![sifreform1](https://github.com/user-attachments/assets/8bf52e0e-bbcf-42eb-9a06-7a54d87b0328)
+Şifre unutulması durumunda diğer bir giriş ekranı
 
 # ANA MENÜ FORMU
 ![menülerform](https://github.com/user-attachments/assets/39debbfe-6b57-4087-9827-935d0b48903f)
+Oda veya rezervasyon formuna geçebileceğimiz ekran
 
-# ODALAR İÇİN İŞLEM YAPABİLECEĞİMİZ FORM
-![odalar](https://github.com/user-attachments/assets/c478690e-d90e-4aac-875d-a0b70e089626)
+# ODALAR FORMU
+![odalar1](https://github.com/user-attachments/assets/48e3fbad-240f-43ab-9688-a5a0d259e29c)
+Odalar için işlem yapabileceğimiz ekran
 
-# REZERVASYONLAR EKRANI 
-![rezervasyonform](https://github.com/user-attachments/assets/b62623ad-e36e-4559-9b92-20e4f4fb7199)
+# REZERVASYONLAR FORMU 
+![rezervasyon1](https://github.com/user-attachments/assets/1bcbdc5d-eb1b-4f7b-91da-8e73beb73260)
+Rezervasyonlar için işlem yapabileceğimiz ve oda seçebileceğimiz ekran
 
-# REZERVASYON OLUŞTURURKEN BOŞ ODA SEÇEBİLECEĞİMİZ EKRAN
-![bosoda](https://github.com/user-attachments/assets/1abb5082-e326-4893-876e-239dd11a1b90)
+# BOŞ ODA FORMU
+![bosoda1](https://github.com/user-attachments/assets/fd0cfc46-f481-4ca4-892e-c1ef27dd1bec)
+Rezervasyon yaparken boş odaları görüntüleyip seçebileceğimiz ekran
